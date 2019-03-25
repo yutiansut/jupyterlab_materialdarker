@@ -5,10 +5,8 @@ This is my port of the [Material Darker theme](http://equinsuocha.io/material-th
 ## Install
 
 ```
-jupyter labextension install @oriolmirosa/jupyterlab_materialdarker
+jupyter labextension install @yutiansut/jupyterlab_materialdarker
 ```
 
-After launching JupyterLab, select the `Material Darker` theme from the main menu: `Settings` > `JupyterLab Theme` > `Material Darker`
+After launching JupyterLab, select the `Material Darker` theme from the main menu: `Settings` > `JupyterLab Theme` > `Material Darker QUANTAXIS Special`
 
-
-![The Material Darker theme on JupyterLab](https://user-images.githubusercontent.com/6955013/37124604-0450d6dc-2237-11e8-95d8-0e822ee92c49.png)
